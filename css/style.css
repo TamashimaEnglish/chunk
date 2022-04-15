@@ -1,4 +1,4 @@
-      image{
+         image{
       text-align: center;
       border-radius: 10px;
       }
@@ -131,9 +131,13 @@ a.btn-border-shadow:hover:before {
   margin-bottom:100em;
 }
 .inner{
-  width:26em;
+  width:25.5em;
   position: absolute;
   left: 0;
   right: 0;
+  margin: auto;
+}
+.inner2{
+  width:26em;
   margin: auto;
 }
